@@ -1,0 +1,11 @@
+.collapse {
+  display: flex;
+  justify-content: space-around;
+}
+.aaa {
+  display: flex;
+  color: darkgoldenrod;
+  justify-content: space-between;
+
+  margin: 5px;
+}
